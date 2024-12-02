@@ -1,5 +1,5 @@
 # The Arithmetic Game
-    Video Demo:  https://youtu.be/thd7Q5Kiyjw
+    #### Video Demo:  <https://youtu.be/thd7Q5Kiyjw>
     #### Description:
   The Arithmetic Game is a python program that allows the user to have a 10 item test depending on their choice. Users can enter their preffered nicknames for themselves. After picking, they will go to the part 
   they will select choices namely: Addition, Subtraction, Multiplication, Division, Modulus, and Mixed. After choosing one of the choices, the program will generate two random numbers with the selected operation.
